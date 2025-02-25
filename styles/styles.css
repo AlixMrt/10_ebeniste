@@ -166,7 +166,8 @@ h3 {
     margin-top: 10vh;
     position: sticky;
     max-width: 60vw;
-    max-height: 76vh;
+    height: 76vh;
+    max-height: 1000px;
     order: 1;
   }
 }
